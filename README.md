@@ -31,3 +31,4 @@ Other Tools : Figma, Git
 # :mailbox_with_mail: Contacts
 [![GitHub](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=[https://github.com/dodosdev)](https://github.com/dodosdev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dodosdev@gmail.com)](mailto:dodosdev@gmail.com)
+<!--https://soo-vely-dev.tistory.com/159-->
