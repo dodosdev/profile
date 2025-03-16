@@ -9,7 +9,7 @@ Backend : Node.js, Axios, RESTful API<br>
 Styling : Styled-Components, Tailwind CSS<br>
 Other Tools : Figma, Git
 
-<br>
+<hr>
 
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -28,8 +28,6 @@ Other Tools : Figma, Git
 
 
 
- 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
+[![GitHub](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=[https://github.com/dodosdev)](https://github.com/dodosdev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dodosdev@gmail.com)](mailto:dodosdev@gmail.com)
