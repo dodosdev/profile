@@ -12,7 +12,7 @@ State Management: Redux
 Backend: Node.js, Axios, RESTful API
 Styling: Styled-Components, Tailwind CSS
 Other Tools: Figma, Git
-<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 💼 Experience
 UI/UX 디자이너로 시작해 프론트엔드 개발자로 전향한 후, 다양한 프로젝트에서 React 기반의 컴포넌트 설계, 상태 관리, API 통신 최적화 등의 경험을 쌓아왔습니다. 
 특히, React Context와 Redux를 활용한 상태 관리, Axios를 통한 비동기 데이터 처리, 그리고 재사용 가능한 컴포넌트 설계에 강점을 가지고 있습니다.
