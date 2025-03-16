@@ -1,15 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F7DF1E&width=435&lines=Welcome+to+GitHub+of+Front-end+Developer+" alt="Typing SVG" /></a>
 
-Hi there 👋, my name is Dojin
+<h2>Hi there 👋, my name is Dojin</h2>
 
-🔧 Skills<br>
+<h1>🔧 Skills</h1>
 Frontend : React, TypeScript, JavaScript, HTML5, CSS3<br>
 State Management : Redux<br>
 Backend : Node.js, Axios, RESTful API<br>
 Styling : Styled-Components, Tailwind CSS<br>
 Other Tools : Figma, Git
 
-<hr>
+<br>
+<br>
 
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
