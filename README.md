@@ -3,7 +3,7 @@
 <h2> Hello! 👋,&nbsp I'm front-end developer DOJIN</h2>
 
 <h1>🔧 Skills</h1>
-Frontend :  React, TypeScript, Next.js, SASS, JavaScript, HTML5, CSS3<br>
+Frontend :  React, TypeScript, Redux, Next.js, SASS, JavaScript, HTML5, CSS3<br>
 State Management :  Redux<br>
 Backend :  Node.js, Axios, RESTful API<br>
 Styling :  Styled-Components, Tailwind CSS<br>
