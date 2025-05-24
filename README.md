@@ -3,10 +3,10 @@
 <h2> Hello! 👋,&nbsp I'm a Front-end developer DOJIN</h2>
 
 <h1>🔧 Skills</h1>
-Frontend :  React, TypeScript, Next.js, JavaScript, Github, Git, HTML, CSS<br>
+Frontend :  React, Vue3, TypeScript, Next.js, JavaScript, Github, Git, HTML, CSS<br>
 State Management :  Redux<br>
 Backend :  Node.js, Axios, RESTful API<br>
-Styling :  SASS, Styled-Components, Tailwind CSS<br>
+Styling :  SCSS, Styled-Components, Tailwind CSS<br>
 Other Tools :  Figma, adobeXD<br>
 
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
