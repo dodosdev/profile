@@ -3,8 +3,8 @@
 <h2> Hello! 👋,&nbsp I'm a Front-end developer DOJIN</h2>
 
 <h1>🔧 Skills</h1>
-Frontend :  React, Vue3, TypeScript, Next.js, JavaScript, Github, Git, HTML, CSS<br>
-State Management :  Redux<br>
+Frontend :  Next.js, React, Vue3, TypeScript, JavaScript, Github, Git<br>
+State Management :  Zustand, Redux<br>
 Backend :  Node.js, Axios, RESTful API<br>
 Styling :  SCSS, Styled-Components, Tailwind CSS<br>
 Other Tools :  Figma, adobeXD<br>
