@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F7DF1E&width=435&lines=Welcome+to+GitHub+of+Front-end+Developer+" alt="Typing SVG" /></a>
 
-<h2> Hello! 👋,&nbsp I'm a Front-end developer DOJIN</h2>
+<h2> Hello! 👋,&nbsp I'm a Frontend Developer DOJIN</h2>
 
 <h1>🔧 Skills</h1>
 Frontend :  Next.js, React, Vue3, TypeScript, JavaScript, Github, Git<br>
